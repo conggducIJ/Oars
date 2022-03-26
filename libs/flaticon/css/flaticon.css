@@ -1,0 +1,269 @@
+	/*  	Flaticon icon font: Flaticon  	Creation date: 30/08/2018 10:58  	*/
+	
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("../fonts/Flaticon.eot");
+	    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"), url("../fonts/Flaticon.woff") format("woff"), url("../fonts/Flaticon.ttf") format("truetype"), url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+	
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-size: 20px;
+	    font-style: normal;
+	}
+	
+	.icon-search:before {
+	    content: "\e909";
+	}
+	
+	.flaticon-filter:before {
+	    content: "\f100"
+	}
+	
+	.flaticon-fruit-14:before {
+	    content: "\f101"
+	}
+	
+	.flaticon-fruit-13:before {
+	    content: "\f102"
+	}
+	
+	.flaticon-shop:before {
+	    content: "\f103"
+	}
+	
+	.flaticon-fruit-12:before {
+	    content: "\f104"
+	}
+	
+	.flaticon-food-21:before {
+	    content: "\f105"
+	}
+	
+	.flaticon-food-20:before {
+	    content: "\f106"
+	}
+	
+	.flaticon-fruit-11:before {
+	    content: "\f107"
+	}
+	
+	.flaticon-food-19:before {
+	    content: "\f108"
+	}
+	
+	.flaticon-search:before {
+	    content: "\f109"
+	}
+	
+	.flaticon-shapes:before {
+	    content: "\f10a"
+	}
+	
+	.flaticon-arrows-1:before {
+	    content: "\f10b"
+	}
+	
+	.flaticon-arrows:before {
+	    content: "\f10c"
+	}
+	
+	.flaticon-sailing:before {
+	    content: "\f10d"
+	}
+	
+	.flaticon-fruit-10:before {
+	    content: "\f10e"
+	}
+	
+	.flaticon-food-18:before {
+	    content: "\f10f"
+	}
+	
+	.flaticon-food-17:before {
+	    content: "\f110"
+	}
+	
+	.flaticon-food-16:before {
+	    content: "\f111"
+	}
+	
+	.flaticon-fruit-9:before {
+	    content: "\f112"
+	}
+	
+	.flaticon-fruit-8:before {
+	    content: "\f113"
+	}
+	
+	.flaticon-fruit-7:before {
+	    content: "\f114"
+	}
+	
+	.flaticon-fruit-6:before {
+	    content: "\f115"
+	}
+	
+	.flaticon-tool:before {
+	    content: "\f116"
+	}
+	
+	.flaticon-food-15:before {
+	    content: "\f117"
+	}
+	
+	.flaticon-food-14:before {
+	    content: "\f118"
+	}
+	
+	.flaticon-food-13:before {
+	    content: "\f119"
+	}
+	
+	.flaticon-food-12:before {
+	    content: "\f11a"
+	}
+	
+	.flaticon-food-11:before {
+	    content: "\f11b"
+	}
+	
+	.flaticon-signs-1:before {
+	    content: "\f11c"
+	}
+	
+	.flaticon-fruit-5:before {
+	    content: "\f11d"
+	}
+	
+	.flaticon-food-10:before {
+	    content: "\f11e"
+	}
+	
+	.flaticon-food-9:before {
+	    content: "\f11f"
+	}
+	
+	.flaticon-fruit-4:before {
+	    content: "\f120"
+	}
+	
+	.flaticon-fruit-3:before {
+	    content: "\f121"
+	}
+	
+	.flaticon-fruit-2:before {
+	    content: "\f122"
+	}
+	
+	.flaticon-food-8:before {
+	    content: "\f123"
+	}
+	
+	.flaticon-fruit-1:before {
+	    content: "\f124"
+	}
+	
+	.flaticon-food-7:before {
+	    content: "\f125"
+	}
+	
+	.flaticon-signs:before {
+	    content: "\f126"
+	}
+	
+	.flaticon-computer:before {
+	    content: "\f127"
+	}
+	
+	.flaticon-food-6:before {
+	    content: "\f128"
+	}
+	
+	.flaticon-food-5:before {
+	    content: "\f129"
+	}
+	
+	.flaticon-restaurant-1:before {
+	    content: "\f12a"
+	}
+	
+	.flaticon-barbecue:before {
+	    content: "\f12b"
+	}
+	
+	.flaticon-food-4:before {
+	    content: "\f12c"
+	}
+	
+	.flaticon-nature:before {
+	    content: "\f12d"
+	}
+	
+	.flaticon-food-3:before {
+	    content: "\f12e"
+	}
+	
+	.flaticon-fruit:before {
+	    content: "\f12f"
+	}
+	
+	.flaticon-business:before {
+	    content: "\f130"
+	}
+	
+	.flaticon-scale:before {
+	    content: "\f131"
+	}
+	
+	.flaticon-sign-1:before {
+	    content: "\f132"
+	}
+	
+	.flaticon-food-2:before {
+	    content: "\f133"
+	}
+	
+	.flaticon-food-1:before {
+	    content: "\f134"
+	}
+	
+	.flaticon-food:before {
+	    content: "\f135"
+	}
+	
+	.flaticon-sign:before {
+	    content: "\f136"
+	}
+	
+	.flaticon-restaurant:before {
+	    content: "\f137"
+	}
+	
+	.flaticon-seeds:before {
+	    content: "\f138"
+	}
+	
+	.flaticon-honeycomb:before {
+	    content: "\f139"
+	}
+	
+	.flaticon-corn:before {
+	    content: "\f13a"
+	}
+	
+	.flaticon-fresh-tomato:before {
+	    content: "\f13b"
+	}
